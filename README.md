@@ -1,54 +1,25 @@
-# doctor-appointment-site
+# Doctor Appointment Site
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+## 📝 Description
 A seeadoc-website project
 
-## ✨ Features
+## 🚀 Technology Stack
+- **Primary**: Web/HTML
 
-- Modern and scalable architecture
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/amitdubeyup/doctor-appointment-site.git
-cd doctor-appointment-site
-
-```
-
-## ⚙️ Configuration
-
-Create a `.env` file in the root directory:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file with your configuration values.
-
-## 🚀 Usage
-
-```bash
-# Add usage instructions here
-```
-
-## 📁 Project Structure
-
-```
-doctor-appointment-site/
-├── .env.example
-├── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:amitdubeyup/doctor-appointment-site.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd doctor-appointment-site
+   ```
 
 ## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Amit Dubey**
-
-- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
+--- 
+*Generated and maintained as part of the digital portfolio synchronization.*
